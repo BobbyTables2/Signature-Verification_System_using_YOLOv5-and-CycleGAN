@@ -36,4 +36,4 @@ dominate>=2.4.0
 visdom>=0.1.8.8
 
 #requirements for vgg16 feature extractor
-tensorflow==2.4.1
+tensorflow==2.5.0
