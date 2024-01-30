@@ -28,6 +28,7 @@ pandas
 # onnx>=1.8.1
 
 # scikit-learn==0.19.2  # for coreml quantization
+scikit-learn>=0.19.2
 thop  # FLOPS computation
 pycocotools>=2.0  # COCO mAP
 
